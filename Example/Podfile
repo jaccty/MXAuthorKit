@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MXAuthorKit_Example' do
+  pod 'MXAuthorKit', :path => '../'
+
+  target 'MXAuthorKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

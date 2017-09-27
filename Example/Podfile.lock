@@ -18,7 +18,7 @@ PODS:
   - MBProgressHUD (1.0.0)
   - MXAPIsKit (1):
     - AFNetworking
-  - MXAuthorKit (1):
+  - MXAuthorKit (1.0.1):
     - Masonry
     - MXAPIsKit
     - MXCategoryKit
@@ -61,7 +61,7 @@ SPEC CHECKSUMS:
   Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
   MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
   MXAPIsKit: a1985b0a295b6afba5c563d49db3b0f79efd4d6c
-  MXAuthorKit: 8ad269f11ff6e1b834be8ec5f23d392ca3724fa9
+  MXAuthorKit: 57aeff4e91036f3e0fe62941464b8b1bdc631221
   MXCategoryKit: d33066ed651e5a65ec89a30388c997a674f99762
   MXConfigsKit: ee6f1dec3048384d6ecf6d9fe643032e3db3c807
   MXMainViewKit: 4c709a8108ef2bc9bc77420a6e7eaedac189582d

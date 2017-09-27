@@ -27,7 +27,7 @@
 
     ],
     "MXConfigsKit": [
-      "~> 1.0.1"
+
     ],
     "ReactiveCocoa": [
       "~> 2.5"

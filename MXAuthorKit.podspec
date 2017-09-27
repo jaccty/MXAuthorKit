@@ -40,7 +40,7 @@ TODO: Add long description of the pod here.
   # s.frameworks = 'UIKit', 'MapKit'
    s.dependency 'Masonry'
    s.dependency 'YYWebImage'
-   s.dependency 'MXConfigsKit', '~> 1.0.1'
+   s.dependency 'MXConfigsKit'
    s.dependency 'ReactiveCocoa', '~> 2.5'
    s.dependency 'MXCategoryKit'
    s.dependency 'MXAPIsKit'

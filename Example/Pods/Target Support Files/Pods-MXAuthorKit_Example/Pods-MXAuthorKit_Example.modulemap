@@ -1,0 +1,6 @@
+framework module Pods_MXAuthorKit_Example {
+  umbrella header "Pods-MXAuthorKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

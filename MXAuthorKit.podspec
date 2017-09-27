@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MXAuthorKit'
-  s.version          = '0.1.0'
+  s.version          = '1'
   s.summary          = 'A short description of MXAuthorKit.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/848941531@qq.com/MXAuthorKit'
+  s.homepage         = 'https://github.com/jaccty/MXAuthorKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '848941531@qq.com' => '848941531@qq.com' }
-  s.source           = { :git => 'https://github.com/848941531@qq.com/MXAuthorKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/jaccty/MXAuthorKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
@@ -38,5 +38,13 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+   s.dependency 'Masonry'
+   s.dependency 'YYWebImage'
+   s.dependency 'MXConfigsKit', '~> 1.0.1'
+   s.dependency 'ReactiveCocoa', '~> 2.5'
+   s.dependency 'MXCategoryKit'
+   s.dependency 'MXAPIsKit'
+   s.dependency 'MXMainViewKit'
+   s.dependency 'MXToolsKit'
+   s.dependency 'MXReformerKeysKit'
 end

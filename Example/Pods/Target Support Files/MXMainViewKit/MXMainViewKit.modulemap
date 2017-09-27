@@ -1,0 +1,6 @@
+framework module MXMainViewKit {
+  umbrella header "MXMainViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

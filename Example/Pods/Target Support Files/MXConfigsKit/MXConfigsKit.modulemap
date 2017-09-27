@@ -1,0 +1,6 @@
+framework module MXConfigsKit {
+  umbrella header "MXConfigsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

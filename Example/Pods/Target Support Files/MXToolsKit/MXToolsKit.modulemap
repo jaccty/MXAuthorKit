@@ -1,0 +1,6 @@
+framework module MXToolsKit {
+  umbrella header "MXToolsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

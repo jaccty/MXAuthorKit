@@ -1,0 +1,6 @@
+framework module MXAPIsKit {
+  umbrella header "MXAPIsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

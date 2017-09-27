@@ -1,0 +1,6 @@
+framework module MXReformerKeysKit {
+  umbrella header "MXReformerKeysKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

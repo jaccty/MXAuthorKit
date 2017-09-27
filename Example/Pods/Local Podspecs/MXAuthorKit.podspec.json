@@ -1,0 +1,51 @@
+{
+  "name": "MXAuthorKit",
+  "version": "1",
+  "summary": "A short description of MXAuthorKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jaccty/MXAuthorKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "848941531@qq.com": "848941531@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jaccty/MXAuthorKit.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MXAuthorKit/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "YYWebImage": [
+
+    ],
+    "MXConfigsKit": [
+      "~> 1.0.1"
+    ],
+    "ReactiveCocoa": [
+      "~> 2.5"
+    ],
+    "MXCategoryKit": [
+
+    ],
+    "MXAPIsKit": [
+
+    ],
+    "MXMainViewKit": [
+
+    ],
+    "MXToolsKit": [
+
+    ],
+    "MXReformerKeysKit": [
+
+    ]
+  }
+}

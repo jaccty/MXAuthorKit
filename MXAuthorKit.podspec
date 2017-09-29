@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MXAuthorKit'
-  s.version          = '1.0.2'
+  s.version          = '2'
   s.summary          = 'A short description of MXAuthorKit.'
 
 # This description is used to generate tags and improve search results.

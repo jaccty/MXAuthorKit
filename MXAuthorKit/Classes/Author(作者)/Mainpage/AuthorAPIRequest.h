@@ -6,8 +6,8 @@
 //  Copyright © 2017年 Triangle. All rights reserved.
 //
 
-#import "APIRequest.h"
-
+//#import "APIRequest.h"
+#import "MXAuthorKit.h"
 @interface AuthorAPIRequest : APIRequest<APIRequestProtocol>
 
 @end
